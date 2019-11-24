@@ -1,0 +1,22 @@
+{
+  "name": "fast-csv-experiments",
+  "version": "0.0.1",
+  "description": "Testing and Validating fast-csv Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandolyte/fast-csv-experiments.git"
+  },
+  "author": "mandolyte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mandolyte/fast-csv-experiments/issues"
+  },
+  "homepage": "https://github.com/mandolyte/fast-csv-experiments#readme",
+  "dependencies": {
+    "fast-csv": "^3.4.0"
+  }
+}
