@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mandolyte/fast-csv-experiments#readme",
   "dependencies": {
-    "fast-csv": "^3.4.0"
+    "fast-csv": "^4.3.6"
   }
 }
